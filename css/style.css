@@ -223,7 +223,7 @@ a:focus {
         width: 100%;
         top: 35px;
         padding: 20px 60px;
-        background: rgba(9, 42, 73, .2)!important;
+        background: #092a49!important;
         z-index: 9;
     }
     
@@ -539,7 +539,7 @@ a:focus {
 .fact {
     position: relative;
     width: 100%;
-    padding: 45px 0 15px 0;
+    padding: 45px 50px 15px 50px;
 }
 
 .fact .fact-item {
